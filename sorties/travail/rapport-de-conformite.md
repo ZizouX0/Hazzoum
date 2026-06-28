@@ -36,3 +36,13 @@ Parmi les critiques, E-02 et E-03 sont des preuves/confirmations externes (bloqu
 
 ## 3. Verdict global
 > **NON PRÊT pour la mise en forme finale** — écarts de RÉDACTION à traiter : plan allergènes (E-06), plan N&D global (E-07), référence d'étiquetage tunisien (E-08), renvoi d'annexe de la politique (E-04), clarification barèmes CCP2/CCP3 (E-05). Les critiques E-01/E-02/E-03 relèvent de validations/preuves externes à consolider dans la liste des informations manquantes.
+
+---
+
+# Itération 2 — Vérification de clôture (28/06/2026)
+
+**Statut des 15 écarts :** tous **CLOS** (rédaction) ou maintenus à juste titre en `[À COMPLÉTER]` (E-01/E-02/E-03, validations externes). Aucun nouvel écart introduit par les corrections (non-régression vérifiée : prénoms Hichem/Hazem, codes T° 2.3/2.4/2.5, renvois A4/A14, liste UE).
+
+**Verdict mis à jour : PRÊT pour la mise en forme finale.**
+- (a) Écarts de rédaction non clos : **AUCUN**.
+- (b) Écarts critiques E-01 (barème CCP2 — entreprise), E-02 (validation pasteurisation/MAP + challenge tests — entreprise), E-03 (autorité d'agrément — administration) : **bloquants pour le DÉPÔT**, non bloquants pour la mise en forme **sous réserve d'acceptation explicite de l'utilisateur** de les conserver en `[À COMPLÉTER]`.
