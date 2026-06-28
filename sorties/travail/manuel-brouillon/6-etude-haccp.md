@@ -46,9 +46,11 @@ L'analyse des dangers évalue chaque étape (gravité × probabilité). Dangers 
 | **CCP2** | Pasteurisation intermédiaire | **[À COMPLÉTER : barème à confirmer]** | T° cœur / durée, ENR-CCP-002 |
 | **CCP3** | Pasteurisation poussée | **T° cœur > 74 °C** (sinon repasteurisation) | T° cœur / durée, ENR-CCP-003 |
 
-> *Corrections apportées : le barème du **CCP2** est divergent entre les sources (le texte indique « T interne > 74 °C » ; un paramètre du diagramme indique « T > 45 °C »). S'agissant d'une **limite critique de sécurité alimentaire**, elle n'a pas été harmonisée d'office et reste `[À COMPLÉTER]`.*
+> *Corrections apportées (E-05) — clarification de l'affectation des barèmes :*
+> - *Le **CCP3 (pasteurisation poussée)** retient la valeur du diagramme source « T° à cœur > 74 °C, sinon repasteurisation ». Cette valeur est considérée comme acquise pour le CCP3.*
+> - *Le **CCP2 (pasteurisation intermédiaire)** est le seul point dont le barème est **divergent entre les sources** : le diagramme porte, pour les étapes de pasteurisation, à la fois la mention « T interne > 74 °C » et un paramètre « T > 45 °C ». Faute de pouvoir déterminer sans risque lequel s'applique au CCP2, son barème est **laissé `[À COMPLÉTER]`** (limite critique de sécurité, non harmonisée d'office — décision D3).*
 
-> **[À COMPLÉTER : barème exact (température à cœur + durée) du CCP2 — Pasteurisation intermédiaire, à confirmer et valider par l'entreprise.]**
+> **[À COMPLÉTER : barème exact (température à cœur + durée) du CCP2 — Pasteurisation intermédiaire — à confirmer et valider par l'entreprise. Préciser si la valeur « > 45 °C » relevée sur le diagramme correspond à un autre paramètre (ex. température d'une étape de procédé) et non à la limite critique du CCP2.]**
 
 ## 6.5 Limites critiques, surveillance, actions correctives
 

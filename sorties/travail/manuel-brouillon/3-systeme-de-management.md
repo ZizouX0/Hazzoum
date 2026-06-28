@@ -2,7 +2,9 @@
 
 ## 3.1 Organigramme, responsabilités et équipe sécurité des aliments
 
-L'établissement est dirigé par le Gérant, M. Hichem ZRELLI. L'organisation fonctionnelle est présentée en **Annexe A1 (organigramme)**.
+L'établissement est dirigé par le Gérant, **M. Hichem ZRELLI**. Le Responsable Management Qualité et animateur de l'équipe HACCP est **M. Hazem ZRELLI** : il s'agit de **deux personnes distinctes** partageant le même patronyme. L'organisation fonctionnelle est présentée en **Annexe A1 (organigramme)**.
+
+> *[À COMPLÉTER : confirmation par l'entreprise qu'il s'agit bien de deux personnes distinctes (Gérant Hichem ZRELLI / RMQ Hazem ZRELLI) et non d'une coquille.]*
 
 **Équipe HACCP / sécurité des aliments** *(source : tableau de nomination de l'équipe HACCP)* :
 

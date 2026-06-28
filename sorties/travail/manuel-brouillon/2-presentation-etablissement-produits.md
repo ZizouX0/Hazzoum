@@ -18,14 +18,16 @@ L'usine est organisée en zones distinctes selon le niveau de risque microbiolog
 
 ## 2.2 Gamme de produits
 
-| Famille | Produits | Préfixe lot |
+| Famille | Produits (5 farces ravioli) | Préfixes de lot disponibles |
 |---|---|---|
-| Ravioli (farcis) | Ricotta-épinard (RR), aux fromages (RF), au steak/rôti de bœuf-fines herbes (RS/RB), saumon fumé-crevettes (RP), poulet rôti-champignons | RR / RF / RS / RP / RB |
-| Tortellini (farcis) | Au steak haché (TS), quatre fromages (TF) | TS / TF |
+| Ravioli (farcis) | Ricotta-épinard ; aux fromages (RF) ; rôti de bœuf-fines herbes ; saumon fumé-crevettes ; poulet rôti-champignons | RR, RF, RS, RP, RB (5 préfixes pour 5 farces) |
+| Tortellini (farcis) | Au steak haché (TS) ; quatre fromages (TF) | TS, TF |
 | Gnocchi | Gnocchi au parmesan | GN |
-| Pâtes non farcies | Tagliatelle (TA), Lasagne (LZ), Linguine (LG) | TA / LZ / LG |
+| Pâtes non farcies | Tagliatelle (TA) ; Lasagne (LZ) ; Linguine (LG) | TA, LZ, LG |
 
-Le numéro de lot suit le format **AAXXAJJMMYY** (ex. `RR11D100426` = Ravioli ricotta-épinard produit le 10 avril 2026). *(Source : Procédure de traçabilité ; voir § 5.2.)*
+> *Correction apportée (E-11) : la gamme compte **5 farces de ravioli** pour **5 préfixes** (RR, RF, RS, RP, RB) ; chaque farce dispose donc d'un préfixe (le ravioli poulet-champignons n'est plus laissé sans code).* **[À COMPLÉTER : confirmer l'attribution exacte de chaque préfixe (RR, RS, RP, RB) à sa farce — seule la correspondance RF = ravioli aux fromages est explicitement documentée.]**
+
+Le numéro de lot suit le format **AAXXAJJMMYY** (voir la décomposition détaillée au § 5.2). *(Source : Procédure de traçabilité.)*
 
 ## 2.3 Caractéristiques des produits, MAP, double pasteurisation, DLC
 

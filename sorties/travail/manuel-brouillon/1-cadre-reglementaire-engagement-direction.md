@@ -13,9 +13,11 @@ Les axes de la politique qualité sont :
 
 La Direction Générale s'engage à fournir les ressources nécessaires (humaines, matérielles, immatérielles) et à évaluer périodiquement, lors des revues de direction, la pertinence et l'efficacité du système. Toute réclamation reçue est traitée et fait l'objet d'une réponse dans un délai maximum de **48 heures**.
 
-> La politique signée par le Gérant (M. Hichem ZRELLI), dans sa version bilingue français/arabe, est reproduite en **Annexe** et affichée sur le site. *(Source : Politique de la sécurité alimentaire.)*
+> La politique signée par le Gérant (M. Hichem ZRELLI), dans sa version bilingue français/arabe, est reproduite en annexe dédiée et affichée sur le site. *(Source : Politique de la sécurité alimentaire.)*
 
-*Voir Annexe A4 (politique signée).*
+*Voir Annexe A14 (politique qualité signée — FR/AR).*
+
+> *Correction apportée (E-04) : le renvoi initial pointait vers l'Annexe A4, qui correspond au tableau de l'équipe HACCP. La politique signée est désormais rattachée à une annexe distincte (A14).*
 
 ## 1.2 Référentiel réglementaire tunisien applicable
 

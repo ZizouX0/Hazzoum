@@ -16,9 +16,19 @@ Le système de traçabilité couvre toute la chaîne, de la réception des mati�
 
 ## 5.2 Identification des lots et gestion MAP
 
-Le numéro de lot PF suit le format **AAXXAJJMMYY** :
-- préfixe produit (RR, RF, RS, RP, RB, TS, TF, GN, TA, LZ, LG) ;
-- exemple : `RR11D100426` = Ravioli ricotta-épinard, produit le 10 avril 2026.
+Le numéro de lot PF suit le format **AAXXAJJMMYY** (11 caractères), décomposé comme suit :
+
+| Position | Champ | Contenu | Exemple `RR11D100426` |
+|---|---|---|---|
+| 1-2 (AA) | Préfixe produit | 2 lettres (RR, RF, RS, RP, RB, TS, TF, GN, TA, LZ, LG) | `RR` = ravioli ricotta-épinard |
+| 3-5 (XXA) | Code interne | Code recette/ligne | `11D` |
+| 6-7 (JJ) | Jour | Jour de production | `10` |
+| 8-9 (MM) | Mois | Mois de production | `04` |
+| 10-11 (YY) | Année | Année (2 chiffres) | `26` (2026) |
+
+Soit `RR11D100426` = ravioli ricotta-épinard, recette/ligne `11D`, produit le **10 avril 2026** (un autre lot du même produit fabriqué le 04 mai 2026 porterait `RR11D040526`).
+
+> *Correction apportée (E-10) : décomposition champ par champ ajoutée pour rendre le format auto-démontrable.* **[À COMPLÉTER : signification exacte du segment central « 11D » (code recette, ligne ou poste) à préciser par l'entreprise.]**
 
 Le numéro de lot est imprimé sur le produit (convoyeur dateur) et reporté sur toutes les fiches de production et les emballages. La fiche de production relie le lot PF aux numéros de lots des MP utilisées et aux enregistrements CCP1/CCP2/CCP3, au N&D du jour et, le cas échéant, au rapport d'analyse MULTILAB.
 

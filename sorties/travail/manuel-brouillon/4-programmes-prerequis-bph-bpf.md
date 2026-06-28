@@ -59,7 +59,20 @@ Le plan de nettoyage-désinfection (réf. **PRO-N&D-001 / N&D-001**) définit, p
 
 Tous les produits au contact des surfaces alimentaires sont rincés à l'eau potable après application.
 
-> **[À COMPLÉTER : plan N&D global détaillé (tableau zone/équipement × fréquence × produit × concentration × temps de contact × responsable × enregistrement) — la section correspondante du manuel existant est un titre sans contenu. Fournir également la fiche technique de TRICHLORID 90 % et les preuves de contrôle d'efficacité du N&D (ex. tests de surface).]**
+**Plan N&D global** *(reconstruit à partir des éléments documentés dans les procédures Bâtiments et Déchets ; les concentrations/temps de contact non sourcés sont à compléter)* :
+
+| Élément à nettoyer | Fréquence | Méthode | Produit | Responsable / Enregistrement |
+|---|---|---|---|---|
+| Tables de travail (inox) | Après chaque utilisation (ACU) | Lavage + désinfection | ARVO DERM | Opérateur / fiche N&D |
+| Laminoir, machines ravioli/tortellini/gnocchi | ACU (démontage) | Lavage + désinfection | ARVO DERM | Resp. BPH / fiche N&D |
+| Convoyeurs, séchoir vibrant | Fin de journée | Lavage + désinfection | ARVO DERM / INDAL PERACID | Opérateur / fiche N&D |
+| Sols zones de production / cuisine | Quotidien (fin de production) | Lavage + désinfection | INDAL PERACID | Opérateur / fiche N&D |
+| Caniveaux / zones déchets | Mensuel + après production | Curage + désinfection | TRICHLORID 90 % (galet) | Resp. Production / fiche N&D |
+| Bacs déchets alimentaires (D-01) | Quotidien après vidage | Rinçage + lavage + désinfection | ARVO DERM 1 % | Resp. Stocks / N&D-001 |
+| Lave-mains / distributeurs | Après action salissante ; recharge avant chaque poste | Nettoyage | RC MANO SEPT (savon) | Opérateur |
+| SAS d'entrée (filtre sanitaire) | Quotidien | Désinfection | ARVO 21 SR (distributeur) | Resp. BPH / contrôle quotidien |
+
+> **[À COMPLÉTER : compléter pour chaque ligne la concentration d'emploi et le temps de contact (non sourcés dans le manuel existant) ; fournir la fiche technique de TRICHLORID 90 % ; joindre les preuves de contrôle d'efficacité du N&D (tests de surface par frottis — voir § 7.1).]**
 
 *Voir Annexe A7 (plan N&D + FDS/FT).*
 
@@ -107,7 +120,9 @@ La maintenance préventive est coordonnée par le technicien de maintenance et p
 
 Traçabilité par **Bordereau de Suivi des Déchets (BSD)** ; prestataire M. El Mouldi Fathalli (agréé ANGED, n° 1525899DNC000). Registres DEC-001/002.
 
-> **[À COMPLÉTER : analyses d'eau potable (SONEDE/MULTILAB) datées, copie de l'agrément ANGED en cours de validité du prestataire, et modalités de gestion des sous-produits d'origine animale (chutes carnées/poisson) si distinctes de la collecte municipale.]**
+**Sous-produits d'origine animale (SPA).** Les chutes et résidus issus des ingrédients d'origine animale et de la pêche (parures carnées, restes de saumon/crevettes, farces non utilisées) constituent des **sous-produits animaux** et sont gérés avec les déchets alimentaires organiques (catégorie D-01), en bacs fermés, vidés en fin de poste et **jamais stockés plus de 24 h** en zone de production, afin de prévenir tout risque de contamination croisée et de nuisibles. Compte tenu de la nature POA/pêche de l'établissement, la filière d'élimination de ces sous-produits peut faire l'objet d'exigences spécifiques des services vétérinaires.
+
+> **[À COMPLÉTER : confirmer auprès des services vétérinaires (DGSV) si une filière dédiée d'élimination des sous-produits animaux (distincte de la collecte municipale) est requise pour cet établissement, et joindre les bordereaux correspondants. Fournir également les analyses d'eau potable (SONEDE/MULTILAB) datées et la copie de l'agrément ANGED en cours de validité du prestataire.]**
 
 ## 4.7 Chaîne du froid
 
@@ -122,9 +137,32 @@ La chaîne du froid est maintenue en continu de la réception à la livraison. R
 
 ## 4.8 Gestion des allergènes
 
-Les produits contiennent plusieurs allergènes majeurs : **gluten** (semoule, farine), **œuf** (ovoproduits), **lait** (ricotta, fromages, beurre), **poisson** (saumon), **crustacés** (crevettes). Un plan de maîtrise des allergènes encadre : la séparation/ordonnancement des fabrications, le nettoyage entre recettes, l'étiquetage, et la prévention des contaminations croisées.
+Les produits MEZZALUNA mettent en œuvre plusieurs allergènes à déclaration obligatoire. Le présent plan en organise la maîtrise selon quatre volets : **(1) identification**, **(2) ordonnancement des fabrications**, **(3) nettoyage inter-recettes**, **(4) étiquetage et vérification**.
 
-> **[À COMPLÉTER : formaliser le plan allergènes (matrice allergènes par produit, ordre de fabrication, procédure de nettoyage inter-recettes, contrôles de contamination croisée). Des éléments existent en filigrane dans l'étude HACCP mais aucun plan allergènes dédié n'est formalisé.]**
+### 4.8.1 Identification — matrice allergènes / produits
+
+La matrice ci-dessous est établie à partir des **ingrédients explicitement nommés** dans les sources. Les cellules portant la mention « à confirmer » dépendent de la recette exacte (présence d'œuf et de gluten dans la pâte selon la formulation), à valider sur les fiches techniques produits.
+
+| Allergène | Source(s) | Produits concernés |
+|---|---|---|
+| **Gluten** (blé/semoule, farine) | Semoule, farine T45-T65 | Tous les produits (pâte) |
+| **Œuf** | Ovoproduits | Produits dont la pâte/farce contient de l'œuf — *à confirmer par recette* |
+| **Lait** | Ricotta, fromages, beurre, parmesan | Ravioli ricotta-épinard, ravioli aux fromages, tortellini 4 fromages, gnocchi au parmesan |
+| **Poisson** | Saumon fumé | Ravioli saumon fumé-crevettes |
+| **Crustacés** | Crevettes | Ravioli saumon fumé-crevettes |
+
+> **[À COMPLÉTER : matrice allergènes définitive par produit, validée sur les fiches techniques (présence d'œuf et de gluten dans chaque recette de pâte et de farce), incluant les éventuels allergènes des épices/arômes.]**
+
+### 4.8.2 Ordonnancement des fabrications
+Les fabrications sont planifiées en **ordre croissant de charge allergénique** : produits sans allergène additionnel (hors gluten, présent partout) en début de campagne, puis produits laitiers, puis produits contenant **poisson/crustacés** (saumon-crevettes) en **fin de campagne**, suivis d'un nettoyage renforcé. L'objectif est de limiter les contaminations croisées vers des produits qui ne déclarent pas ces allergènes.
+
+### 4.8.3 Nettoyage inter-recettes
+Un **nettoyage-désinfection complet** des surfaces, ustensiles et équipements au contact est réalisé lors d'un changement de recette introduisant un nouvel allergène (notamment après les recettes poisson/crustacés), selon le plan N&D (§ 4.3).
+
+### 4.8.4 Étiquetage et vérification
+Les allergènes présents sont **déclarés sur l'étiquette** de chaque produit (voir § 8.1). L'efficacité de la maîtrise est vérifiée par contrôle visuel du nettoyage et, le cas échéant, par analyses de contamination croisée.
+
+> **[À COMPLÉTER : preuves de vérification (analyses de contamination croisée allergènes sur surfaces/produits) et validation de l'ordonnancement par l'équipe HACCP.]**
 
 ## 4.9 Matériaux et objets au contact des denrées (films/barquettes MAP)
 
