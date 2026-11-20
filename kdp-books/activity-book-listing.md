@@ -50,14 +50,12 @@ Copy each field into the matching box on KDP.
 | Cover finish | Glossy |
 | Manuscript | `activity-book-interior.pdf` (58 pages) |
 | Cover | Upload a cover you already have: `activity-book-cover.pdf` |
-| AI-generated content | No (the puzzles and cover were produced by a computer program, not a generative image or text model; see note below) |
+| AI-generated content | **Yes** — Text: "some sections, with extensive editing"; Images: none; Translations: none |
 
-Note on the AI question: KDP asks whether text, images or translations were
-created by an AI-based tool. The puzzle grids and cover shapes here are drawn by
-an ordinary script, but the wording (title, instructions, back-cover text) and
-the script itself were written by an AI assistant. The cautious, honest choice
-is to answer **Yes** and select "Text: some sections, with extensive editing" /
-"Images: none". The answer is not shown to shoppers.
+Why Yes: the puzzle grids and cover shapes are drawn by an ordinary script, but
+the wording (title, instructions, back-cover text) was written by an AI
+assistant. KDP asks you to declare that. The answer is not shown to shoppers
+and does not stop the book being published.
 
 ## Price (estimates from KDP's published tables)
 
